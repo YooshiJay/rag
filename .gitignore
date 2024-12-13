@@ -1,0 +1,6 @@
+*.log
+*.json
+*.csv
+*.ipynb
+args.py
+__pycache__
